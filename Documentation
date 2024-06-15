@@ -1,0 +1,10 @@
+Command to check version
+-- git --version
+
+git initialization command
+git init
+
+command to setup identification for git
+
+username= git config --global config user.name ""
+email=git config --global user.email ""
